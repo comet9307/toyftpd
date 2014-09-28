@@ -1,2 +1,1 @@
-toyftpd
-=======
+toyftpd: a file server,
